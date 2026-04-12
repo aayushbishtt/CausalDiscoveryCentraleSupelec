@@ -1,0 +1,71 @@
+======================================================================
+DISCOVERED EDGES BY ALGORITHM
+======================================================================
+
+PCMCI_RobustParCorr:
+  load_in -> rpm_in (lag 1)
+  load_in -> rpm_in (lag 2)
+  rpm_in -> load_in (lag 2)
+  rpm_in -> pressure_upwind (lag 0)
+  pressure_upwind -> load_in (lag 1)
+  pressure_upwind -> load_in (lag 2)
+  pressure_upwind -> rpm_in (lag 0)
+  pressure_upwind -> rpm_in (lag 1)
+  pressure_upwind -> rpm_in (lag 2)
+  Total: 9 edges
+
+PCMCI+_RobustParCorr:
+  load_in -> rpm_in (lag 1)
+  load_in -> rpm_in (lag 2)
+  rpm_in -> load_in (lag 2)
+  rpm_in -> pressure_upwind (lag 0)
+  pressure_upwind -> load_in (lag 1)
+  pressure_upwind -> load_in (lag 2)
+  pressure_upwind -> rpm_in (lag 0)
+  Total: 7 edges
+
+PCMCI_CMIknn:
+  hatch -> load_in (lag 0)
+  hatch -> load_in (lag 1)
+  hatch -> load_in (lag 2)
+  hatch -> rpm_in (lag 0)
+  hatch -> rpm_in (lag 1)
+  hatch -> pressure_upwind (lag 0)
+  hatch -> pressure_upwind (lag 1)
+  hatch -> pressure_upwind (lag 2)
+  load_in -> hatch (lag 0)
+  load_in -> hatch (lag 1)
+  load_in -> rpm_in (lag 1)
+  load_in -> rpm_in (lag 2)
+  load_in -> pressure_upwind (lag 0)
+  load_in -> pressure_upwind (lag 1)
+  rpm_in -> hatch (lag 0)
+  rpm_in -> hatch (lag 1)
+  rpm_in -> pressure_upwind (lag 0)
+  rpm_in -> pressure_upwind (lag 1)
+  pressure_upwind -> hatch (lag 0)
+  pressure_upwind -> hatch (lag 1)
+  pressure_upwind -> hatch (lag 2)
+  pressure_upwind -> load_in (lag 0)
+  pressure_upwind -> load_in (lag 1)
+  pressure_upwind -> load_in (lag 2)
+  pressure_upwind -> rpm_in (lag 0)
+  Total: 25 edges
+
+PCMCI+_CMIknn:
+  hatch -> load_in (lag 0)
+  hatch -> load_in (lag 2)
+  hatch -> rpm_in (lag 1)
+  hatch -> pressure_upwind (lag 0)
+  load_in -> hatch (lag 0)
+  load_in -> hatch (lag 1)
+  load_in -> rpm_in (lag 1)
+  load_in -> rpm_in (lag 2)
+  load_in -> pressure_upwind (lag 0)
+  load_in -> pressure_upwind (lag 1)
+  rpm_in -> hatch (lag 1)
+  rpm_in -> pressure_upwind (lag 0)
+  pressure_upwind -> hatch (lag 0)
+  pressure_upwind -> load_in (lag 0)
+  pressure_upwind -> rpm_in (lag 0)
+  Total: 15 edges

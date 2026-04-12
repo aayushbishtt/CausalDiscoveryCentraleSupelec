@@ -1,0 +1,5 @@
+Algorithm,Runtime,Precision_dir,Recall_dir,F1_dir,SHD_dir,TP_dir,FP_dir,FN_dir,Precision_undir,Recall_undir,F1_undir,SHD_undir,TP_undir,FP_undir,FN_undir
+PCMCI_RobustParCorr,1.26,0.2,0.25,0.2222,7,1,4,3,0.6667,0.5,0.5714,3,2,1,2
+PCMCI+_RobustParCorr,0.89,0.2,0.25,0.2222,7,1,4,3,0.6667,0.5,0.5714,3,2,1,2
+PCMCI_CMIknn,6465.95,0.3636,1.0,0.5333,7,4,7,0,0.6667,1.0,0.8,2,4,2,0
+PCMCI+_CMIknn,11860.93,0.3636,1.0,0.5333,7,4,7,0,0.6667,1.0,0.8,2,4,2,0
