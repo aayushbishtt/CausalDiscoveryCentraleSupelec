@@ -40,7 +40,7 @@
       <td><a href="mailto:aurore.lomet@cea.fr">aurore.lomet@cea.fr</a></td>
     </tr>
     <tr>
-      <td align="right"><b>Examiner:</b></td>
+      <td align="right"><b>Maintainer:</b></td>
       <td><i>Dr. Myriam Tami</i></td>
       <td><a href="mailto:myriam.tami@centralesupelec.fr">myriam.tami@centralesupelec.fr</a></td>
     </tr>
