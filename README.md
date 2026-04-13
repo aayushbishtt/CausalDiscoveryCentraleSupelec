@@ -34,7 +34,6 @@
       <td><i>Mounia ABDELMOUMNI</i></td>
       <td><a href="mailto:mounia.abdelmoumni@student-cs.fr">mounia.abdelmoumni@student-cs.fr</a></td>
     </tr>
-    
     <tr>
       <td align="right"><b>Supervisor:</b></td>
       <td><i>Dr. Aurore LOMET</i></td>
@@ -54,3 +53,4 @@
 </div>
 
 <br />
+
