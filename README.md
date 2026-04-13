@@ -1,2 +1,55 @@
-# CausalDiscoveryCentraleSupelec
-Lab Project at CentraleSupelec with CEA for MSc AI
+<div align="center">
+  <p><b>LAB PROJECT REPORT — MSc IN AI — 2025/2026</b></p>
+  <hr>
+</div>
+
+<br />
+
+<p align="center">
+  <img src="images/LogoCS.png" height="120" alt="CentraleSupélec" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/cea.png" height="120" alt="CEA" />
+</p>
+
+<br />
+<br />
+
+<div align="center">
+  <h1>Causal Discovery in Time Series<br>for Trustworthy AI</h1>
+  <h3><i>A Comparative Study</i></h3>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="right"><b>Authors:</b></td>
+      <td><i>Mounia ABDELMOUMNI</i></td>
+      <td><a href="mailto:mounia.abdelmoumni@student-cs.fr">mounia.abdelmoumni@student-cs.fr</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><i>Aayush BISHT</i></td>
+      <td><a href="mailto:aayush.bisht@student-cs.fr">aayush.bisht@student-cs.fr</a></td>
+    </tr>
+    <tr>
+      <td align="right"><b>Supervisor:</b></td>
+      <td><i>Dr. Aurore LOMET</i></td>
+      <td><a href="mailto:aurore.lomet@cea.fr">aurore.lomet@cea.fr</a></td>
+    </tr>
+    <tr>
+      <td align="right"><b>Examiner:</b></td>
+      <td><i>Dr. Myriam Tami</i></td>
+      <td><a href="mailto:myriam.tami@centralesupelec.fr">myriam.tami@centralesupelec.fr</a></td>
+    </tr>
+    <tr>
+      <td align="right"><b>Date:</b></td>
+      <td><i>April 13, 2026</i></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
+
+<br />
